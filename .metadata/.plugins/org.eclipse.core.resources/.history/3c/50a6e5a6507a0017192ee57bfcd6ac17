@@ -1,0 +1,13 @@
+package org.niit.com.service.impl;
+
+import org.niit.com.service.InfoService;
+
+public class InfoServiceImpl implements InfoService {
+
+	@Override
+	public void sayHello() {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+	}
+
+}
